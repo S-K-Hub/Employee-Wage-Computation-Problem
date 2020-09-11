@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class MonthlyWagesCondition {
+public class MonthlyWagesConditionUC6 {
 
 	public static void main(String[] args) {
 
