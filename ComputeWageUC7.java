@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class ComputeWage {
+public class ComputeWageUC7 {
 
 	public int computingWage() {
 
