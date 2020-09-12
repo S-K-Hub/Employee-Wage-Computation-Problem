@@ -11,7 +11,7 @@ public class EmployeeWageUC8 {
 		int totalDays = scanner.nextInt();
 		System.out.println("Enter total working hours per month: ");
 		int totalHours = scanner.nextInt();
-		ComputeWage computeWage = new ComputeWage();
+		ComputeWageUC8 computeWage = new ComputeWage();
 		System.out.println("Employee monthly wage is " + computeWage.computingWage(wagePerHour, totalDays, totalHours));
 
 	}
